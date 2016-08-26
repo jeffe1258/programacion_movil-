@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.3.0_eb9f785c98ea788eb1a1ffda5a1b798263eaf686\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.3.0_cedb6efb621884db0ef49fd4740080f2f110082e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.3.0_36518eb134ffb977a277261915e74f6c94cfd42d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6436f6bdb9d7c21cea95f2e0a39e2fa97c2ddae7">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ebd3cd105d12f08c0ea1f44fa31b94f0cf62e5c1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.3.0_ae80c4801466b94d9ef09eaae3860ae932b07c4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04aad59344ae18f109261b4c6c405deb2ed16333">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3f7984914b968a36b8982a93b85839ce25d81da9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.3.0_f79466a3e2d55100868788aac0b3f1d5911b314a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\MIU\Documents\Android\proyectoJJAD\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.3.0_a65660dcd78d0c45bfedb69cd65b2e2d1a07c456\classes.dex" />
+    </item>
+
+</items>

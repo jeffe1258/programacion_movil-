@@ -1,2 +1,0 @@
-# programacion_movil-
-apps
